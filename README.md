@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Learning Path: Mastering SpaCy for Natural Language Processing Examples
+---
 
-You can use the [editor on GitHub](https://github.com/oreillymedia/Learning-Path-Mastering-SpaCy-for-Natural-Language-Processing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Introduction to Natural Language Processing with SpaCy, by Aaron Kramer 
+### To download example files from this video course, click [here](http://examples.oreilly.com/0636920079040/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Learning Vector Space Models with SpaCy, by Aaron Kramer 
+### To download example files from this video course, click [here](http://examples.oreilly.com/0636920079033/).
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/oreillymedia/Learning-Path-Mastering-SpaCy-for-Natural-Language-Processing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Dependency Grammar and Tagging with SpaCy, by Aaron Kramer 
+### To download example files from this video course, click [here](http://examples.oreilly.com/0636920068334/).
